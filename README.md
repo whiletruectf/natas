@@ -18,4 +18,5 @@ This repository contains solutions for [OverTheWire Natas](http://overthewire.or
 | Natas 6  | [Writeup](solutions/Natas6.md) | PHP includes |
 | Natas 7  | [Writeup](solutions/Natas7.md) | PHP error messages |
 | Natas 8  | [Writeup](solutions/Natas8.md) | Basic string encoding/decoding |
+| Natas 9  | [Writeup](solutions/Natas9.md) | Command injection |
 | Natas 26 | [Writeup](solutions/Natas26.md)| PHP Object Injection |
