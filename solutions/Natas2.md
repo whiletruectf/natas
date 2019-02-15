@@ -1,4 +1,4 @@
-# Natas 3 Solution
+# Natas 2 Solution
 
 By using Inspect Element, we notice a suspicious image:
 

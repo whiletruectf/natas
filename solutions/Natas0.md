@@ -1,4 +1,4 @@
-# Natas 1 Solution
+# Natas 0 Solution
 
 The solution can be found by using Inspect Element. There is a comment in the `div#content` tag that reads:
 
