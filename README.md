@@ -14,3 +14,4 @@ This repository contains solutions for [OverTheWire Natas](http://overthewire.or
 | Natas 2  | [Writeup](solutions/Natas2.md) | Inspect Element, Directory Listing |
 | Natas 3  | [Writeup](solutions/Natas3.md) | Inspect Element, robots.txt |
 | Natas 4  | [Writeup](solutions/Natas4.md) | HTTP Referrer |
+| Natas 5  | [Writeup](solutions/Natas5.md) | Cookies |
