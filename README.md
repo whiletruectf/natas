@@ -5,6 +5,7 @@ This repository contains solutions for [OverTheWire Natas](http://overthewire.or
 **Note: Work in Progress.**
 
 ## Solutions
-| Level    | Solution                      | Prerequisites |
-| -------- | ----------------------------- | ------------- |
-| Natas 0  | [Writeup](natas0/Natas0.md)   | None          |
+| Level    | Solution                      | Prerequisites   |
+| -------- | ----------------------------- | --------------- |
+| Natas 0  | [Writeup](natas0/Natas0.md)   | None            |
+| Natas 1  | [Writeup](natas1/Natas1.md)   | Inspect Element |
