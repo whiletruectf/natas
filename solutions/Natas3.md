@@ -14,17 +14,17 @@ If robots.txt disallows a file, then it won't be indexed, hence `not even Google
 
 We head to [natas3.natas.labs.overthewire.org/robots.txt](http://natas3.natas.labs.overthewire.org/robots.txt) to see 
 there are any pages of note.
-```
-http://natas3.natas.labs.overthewire.org/robots.txt:
 
+http://natas3.natas.labs.overthewire.org/robots.txt:
+```
 User-agent: *
 Disallow: /s3cr3t/
 ```
 
 [/s3cr3t/](http://natas3.natas.labs.overthewire.org/s3cr3t/) lists the file [`users.txt`](http://natas3.natas.labs.overthewire.org/s3cr3t/users.txt), which contains the password.
-```
-http://natas3.natas.labs.overthewire.org/s3cr3t/users.txt:
 
+http://natas3.natas.labs.overthewire.org/s3cr3t/users.txt:
+```
 natas4:Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ
 ```
 

@@ -3,9 +3,8 @@
 Natas6 has a view source code link. We notice that the site simply checks if the submitted text is equal to
 a variable. The variable isn't defined in the source code, but rather an include file.
 
-```
-SNIPPET FROM http://natas6.natas.labs.overthewire.org/index-source.html:
-
+http://natas6.natas.labs.overthewire.org/index-source.html:
+```php
 <?
 
 include "includes/secret.inc";
