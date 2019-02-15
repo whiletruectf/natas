@@ -1,5 +1,8 @@
 # Natas Passwords
 
+Access any level by accessing the url `http://natas[ID].natas.labs.overthewire.org/`,
+where `[ID]` is the level number. (e.g. `for natas0`, go to `http://natas0.natas.labs.overthewire.org/`)
+
 | Username  | Password                           |
 | --------- | ---------------------------------- |
 | natas0    | `natas0`                           |
