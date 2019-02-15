@@ -2,6 +2,8 @@
 
 This repository contains solutions for [OverTheWire Natas](http://overthewire.org/wargames/natas/), as well as a [full list of passwords](NatasPasswords.md) for Natas.
 
+**Note: Work in Progress.**
+
 ## Solutions
 | Level    | Solution                      | Prerequisites |
 | -------- | ----------------------------- | ------------- |
