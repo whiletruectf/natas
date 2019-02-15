@@ -52,7 +52,7 @@ As it turns out, there is a [PHP Object Injection Vulernability](https://www.owa
 
 Knowing this, all that's left to do is to generate a malicious Logger instance, serialize it, encode it in base64, and set the value of the `drawing` cookie.
 
-We can write a PHP script to help us. ([PHP File Link](../resources/natas26.php))
+We can write a PHP script to help us. ([PHP File Link](../resources/Natas26/natas26.php))
 ```php
 <?php
 
