@@ -93,4 +93,4 @@ d8 ae 51 d7 da 71 b2 b0 83 d9 19 a0 d7 b8 8b 98
 
 We notice that only the third line is different, and the remaining lines are the same. This suggests that the encryption is done using [ECB Encryption](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Electronic_Codebook_(ECB)), with is a fixed key size of 16 bytes.
 
-With ECB encryption, each "block" of 16 bytes is encrypted independently from each other, so changing part of the query string will only affect the 16 bytes of content that is in its block.
+Each "block" of 16 bytes is encrypted independently from each other, so changing part of the query string will only affect the 16 bytes of content that is in its block.
