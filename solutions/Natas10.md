@@ -23,7 +23,7 @@ if($key != "") {
 ```
 
 This means that we must ust the grep function to find the solution.
-Fourtunately, grep allows wildcards in it's search term. We can search 
+Fortunately, grep allows wildcards in it's search term. We can search 
 for `.*`(this will match anything) in the password file, 
 and use a hashtag to comment out the `dictionary.txt`.
 
